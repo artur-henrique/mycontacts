@@ -2,7 +2,7 @@
 
 This project was created with React
 
-## Available Scripts
+## How to run it
 
 In the project directory, you can run:
 
